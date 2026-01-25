@@ -1,0 +1,21 @@
+{
+  "name": "authveli",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "description": "Smart auth & validation middleware for Express APIs",
+  "keywords": [
+    "auth",
+    "jwt",
+    "validation",
+    "middleware",
+    "express",
+    "security"
+  ],
+  "author": "Ahteshamul Hasan",
+  "license": "MIT @ Ahteshamul Hasan",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.3",
+    "zod": "^3.25.76"
+  }
+}
